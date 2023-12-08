@@ -1,0 +1,60 @@
+/* Estilos para el cuerpo y encabezados */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+  
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+  }
+  
+  /* Estilos para el título principal */
+  h1 {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 450px;
+  }
+  
+  /* Estilos para el contenido principal */
+  .main-content {
+    padding: 50px;
+    text-align: center;
+  }
+  
+  /* Estilos para la barra de navegación */
+  nav {
+    background-color: #333;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin: 0 10px;
+  }
+  
+  /* Estilos para los enlaces de navegación */
+  nav ul li a {
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555;
+  }
+  
+  /* Estilos para el elemento con id 'titulo' */
+  #titulo {
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+  }
+  
